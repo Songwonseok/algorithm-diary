@@ -8,8 +8,8 @@ class Solution {
         int index = nums.length - 1;
         
         while(index >= 0) {
-            int leftPow = (int)Math.pow(nums[left], 2);
-            int rightPow = (int)Math.pow(nums[right], 2);
+            int leftPow = nums[left] * nums[left];
+            int rightPow = nums[right] * nums[right];
             
             if(leftPow <= rightPow) {
                 answer[index--] = rightPow;
