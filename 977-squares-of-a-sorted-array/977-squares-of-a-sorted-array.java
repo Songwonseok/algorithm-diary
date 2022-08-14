@@ -5,8 +5,6 @@ class Solution {
         int left = 0;
         int right = nums.length - 1;
         
-        
-        
         int index = nums.length - 1;
         
         while(index >= 0) {
