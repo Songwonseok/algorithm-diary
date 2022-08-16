@@ -10,20 +10,20 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode[] array = new ListNode[101];
+        ListNode[] array = new ListNode[100];
         
         
         int count = 0;
         ListNode node = head;
         
         while(node != null) {
-            count++;
             array[count] = node;
             node = node.next;
+            count++;
         }
         
         
-        return array[count / 2 + 1];
+        return array[count / 2];
         
     }
 }
