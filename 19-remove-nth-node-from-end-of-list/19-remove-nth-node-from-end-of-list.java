@@ -9,28 +9,23 @@
  * }
  */
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode[] array = new ListNode[30];
-        int index = 0;
-        ListNode node = head;
-        
-        while(node != null) {     
-            array[index] = node;
-            node = node.next;            
-            index++;
+    public ListNode removeNthFromEnd(ListNode head, int n) { 
+        ListNode start = new ListNode(0);
+        ListNode slow = start, fast = start;
+        start.next = head;
+
+
+        for(int i=1; i<=n+1; i++)   {
+            fast = fast.next;
+        }
+
+        while(fast != null) {
+            slow = slow.next;
+            fast = fast.next;
         }
         
-        
-        if(index == 1) {
-            return null;
-        }else if(index == n) {
-            head = array[index - n +1];
-        }else {
-            array[index - n - 1].next = array[index - n].next;
-        }
-        
-        
-        return head;
-        
+        slow.next = slow.next.next;
+
+        return start.next;
     }
 }
