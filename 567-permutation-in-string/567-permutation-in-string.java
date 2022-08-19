@@ -1,30 +1,36 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        HashMap<Character, Integer> s1Map = new HashMap();
+        if(s1.length() > s2.length()) {
+            return false;
+        }
+        
+        int[] s1Map = new int[26];
+        int[] s2Map = new int[26];
         
         for(int i = 0; i < s1.length(); i++) {
-            s1Map.put(s1.charAt(i), s1Map.getOrDefault(s1.charAt(i), 0) + 1);
+            s1Map[s1.charAt(i) - 'a']++;
+            s2Map[s2.charAt(i) - 'a']++;
         }
 
-        for(int i = 0; i <= s2.length() - s1.length(); i++){
-            HashMap<Character, Integer> s2Map = new HashMap();
-            
-            for(int j = 0; j < s1.length(); j++) {
-                s2Map.put(s2.charAt(i+j), s2Map.getOrDefault(s2.charAt(i+j), 0) + 1);
-            }
-            
+
+        for(int i = 0; i < s2.length() - s1.length(); i++) {
             if(matches(s1Map, s2Map)) {
                 return true;
             }
             
+            int right = s2.charAt(i + s1.length()) - 'a';
+            int left = s2.charAt(i) - 'a';
+            
+            s2Map[left]--;
+            s2Map[right]++;            
         }
         
-        return false;
+        return matches(s1Map, s2Map);
     }
     
-    public boolean matches(HashMap<Character, Integer> s1Map, HashMap<Character, Integer> s2Map) {
-        for(char key : s1Map.keySet()) {
-            if(s1Map.get(key) - s2Map.getOrDefault(key, -1) != 0) {
+    public boolean matches(int[] s1Map, int[] s2Map) {
+        for(int i = 0; i < 26; i++) {
+            if(s1Map[i] != s2Map[i]) {
                 return false;
             }
         }
