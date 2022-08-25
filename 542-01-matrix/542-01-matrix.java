@@ -1,29 +1,43 @@
 class Solution {
-    int [][]comOfAdj=new int[][]{{0,1},{0,-1},{1,0},{-1,0},};
-    public void dfs(int[][]graph,int[][]dist,int u,int v,int prev){
-        dist[u][v]=prev;
-        for(int i=0;i<4;i+=1){
-            int x=u+comOfAdj[i][0],y=v+comOfAdj[i][1];
-            if((x>=0&&x<graph.length) && (y>=0 && y<graph[0].length)&& graph[x][y]!=0 && (dist[x][y]>prev+1)){
-                 dfs(graph,dist,x,y,prev+1);
-            }
-               
-        }
-    }
+    int m,n;
+    int[][] dist, mat;
+    int[] dx = {-1, 1, 0, 0}, dy = {0, 0, -1, 1};
+    
     public int[][] updateMatrix(int[][] mat) {
-         int m=mat.length,n=mat[0].length;
-         int [][]dist=new int[m][n];
-         for(int []ar:dist)
-             Arrays.fill(ar,Integer.MAX_VALUE);
+        this.m=mat.length;
+        this.n=mat[0].length;
+        this.dist=new int[m][n];
+        this.mat = mat;
         
-         for(int i=0;i<m;i+=1){
-            for(int j=0;j<n;j+=1){
-                if(mat[i][j]==0){
-                    dfs(mat,dist,i,j,0);
+        for(int[] ar:dist){
+             Arrays.fill(ar,Integer.MAX_VALUE);
+        }
+        
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(mat[i][j] == 0){
+                    dfs(i,j,0);
                 }
             }
          }
     
          return dist;
+    }
+    
+    public void dfs(int x, int y, int prev) {
+        dist[x][y] = prev;
+        
+        
+        for(int dir = 0; dir < 4; dir++) {
+            int nx = x + dx[dir];
+            int ny = y + dy[dir];
+            
+            if(nx < 0 || nx >= m || ny < 0 || ny >= n || mat[nx][ny] == 0 || dist[nx][ny] <= prev + 1) {
+                continue;
+            }
+            
+            dfs(nx, ny, prev + 1);
+        }
+        
     }
 }
