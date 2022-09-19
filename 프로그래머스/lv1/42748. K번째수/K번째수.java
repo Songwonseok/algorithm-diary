@@ -1,45 +1,25 @@
-import java.util.Arrays;
+import java.util.*;
 
 class Solution {
-    static int partition(int[] arr, int left, int right) {
-		int pivot = arr[(left+right)/2];
-		
-		while(left<=right) {
-			while(arr[left] < pivot) left++;
-			while(arr[right] > pivot) right--;
-			if(left <= right) {
-				int temp = arr[left];
-				arr[left] = arr[right];
-				arr[right] = temp;
-				
-				left++;
-				right--;
-			}
-		}
-		
-		return left;
-	}
-	
-	static void quickSort(int[] arr, int left, int right) {
-		if(left >= right) return;
-		
-		int mid = partition(arr,left,right);
-		
-		quickSort(arr,left,mid-1);
-		quickSort(arr,mid,right);
-		
-	}
-    
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         
-        for(int i=0;i<commands.length;i++) {
-        	
-        	int[] sorted = Arrays.copyOfRange(array, commands[i][0] -1, commands[i][1]);
-        	
-        	quickSort(sorted, 0, sorted.length-1);
-        	answer[i] = sorted[commands[i][2]-1];
+        for(int idx = 0; idx < commands.length; idx++) {
+            int i = commands[idx][0] - 1;
+            int j = commands[idx][1] - 1;
+            int k = commands[idx][2] - 1;
+            
+            int[] temp = new int[j - i + 1];
+            
+            for(int x = 0; x <= j - i; x++) {
+                temp[x] = array[i + x];
+            }
+            
+            Arrays.sort(temp);
+            
+            answer[idx] = temp[k];
         }
+        
         
         return answer;
     }
