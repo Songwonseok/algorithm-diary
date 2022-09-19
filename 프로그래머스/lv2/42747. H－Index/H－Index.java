@@ -7,12 +7,9 @@ class Solution {
         Arrays.sort(citations);
         
         for(int i = 0; i < citations.length; i++) {
-            if(citations[i] > citations.length - i) {
-                answer = Math.max(citations.length - i, answer);
-                continue;
-            }
+            int min = Math.min(citations.length - i, citations[i]);
             
-            answer = Math.max(citations[i], answer);
+            answer = Math.max(min, answer);
         }
         
         return answer;
