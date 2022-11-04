@@ -6,33 +6,17 @@ class Solution {
         
         boolean[] visit = new boolean[people.length];
         Arrays.sort(people);
-        int curr = 0;
-        int right = people.length;
+        int left = 0;
+        int right = people.length - 1;
         
-        while(curr < people.length) {
-            if(visit[curr]) {
-                curr++;
-                continue;
+        while(left <= right) {
+            if(people[left] + people[right] <= limit) {
+                left++;
+                right--;
+            }else {
+                right--;
             }
             
-            if(people[curr] > limit / 2) {
-                answer++;
-                curr++;
-                continue;
-            }
-            
-            for(int i = right - 1; i > curr ; i--) {
-                if(visit[i]) 
-                    continue;
-                
-                if(people[i] + people[curr] <= limit) {
-                    visit[i] = true;
-                    right = i;
-                    break;
-                }
-            }
-            
-            visit[curr] = true;
             answer++;
         }
         
