@@ -8,11 +8,15 @@ class Solution {
             int waterHeight;
             int width = right - left;
             
-            if(height[left] >= height[right]) {
+            if(height[left] > height[right]) {
                 waterHeight = height[right];
                 right--;
+            }else if(height[left] < height[right]){
+                waterHeight = height[left];
+                left++;
             }else {
                 waterHeight = height[left];
+                right--;
                 left++;
             }
             
