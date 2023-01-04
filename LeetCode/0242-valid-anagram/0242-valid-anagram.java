@@ -4,25 +4,18 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> countMap = new HashMap();
+        int[] countS = new int[26];
+        int[] countT = new int[26];
 
-        for (char ch : s.toCharArray()) {
-            countMap.put(ch, countMap.getOrDefault(ch, 0) + 1);
+        for(int i =0; i < s.length(); i++) {
+            countS[s.charAt(i) - 'a']++;
+            countT[t.charAt(i) - 'a']++;
         }
 
-        for (char ch : t.toCharArray()) {
-            if(!countMap.containsKey(ch)) {
+        for(int i = 0; i < 26; i++) {
+            if(countS[i] != countT[i]) {
                 return false;
             }
-
-            int count = countMap.get(ch);
-            
-            if(count == 0) {
-                return false;
-            }
-
-            countMap.put(ch, count - 1);
-
         }
 
         return true;
