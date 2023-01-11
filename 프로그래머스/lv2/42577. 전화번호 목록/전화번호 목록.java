@@ -2,16 +2,19 @@ import java.util.*;
 
 class Solution {
     public boolean solution(String[] phone_book) {
-        HashSet<String> set = new HashSet<>(Arrays.asList(phone_book));
-
-		for (String phone: phone_book) {
-			for(int length = 1; length < phone.length(); length++){
-				if(set.contains(phone.substring(0, length))){
-					return false;
-				}
-			}
-		}
-
-		return true;
+        boolean answer = true;
+        
+        Arrays.sort(phone_book);
+        
+        for(int i = 0; i < phone_book.length - 1; i++) {
+            String curr = phone_book[i];
+            String next = phone_book[i + 1];
+            
+            if(next.indexOf(curr) == 0) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 }
