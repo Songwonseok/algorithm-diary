@@ -15,9 +15,7 @@ class Solution {
                 hp += (diff / bandage[0]) * bandage[2];
             }
             
-            if(hp > health) {
-                hp = health;
-            }
+            hp = Math.min(hp, health);
             
             hp -= attack[1];
             
