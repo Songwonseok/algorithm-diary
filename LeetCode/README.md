@@ -4,27 +4,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/master/0020-valid-parentheses) |
-| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/master/2107-find-unique-binary-string) |
+| [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/0020-valid-parentheses) |
+| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/master/0020-valid-parentheses) |
+| [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
-| [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/master/2048-build-array-from-permutation) |
-| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/master/2107-find-unique-binary-string) |
+| [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/2048-build-array-from-permutation) |
+| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/2107-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
-| [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/master/2048-build-array-from-permutation) |
+| [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
-| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/master/2107-find-unique-binary-string) |
+| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
-| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/master/2107-find-unique-binary-string) |
+| [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
