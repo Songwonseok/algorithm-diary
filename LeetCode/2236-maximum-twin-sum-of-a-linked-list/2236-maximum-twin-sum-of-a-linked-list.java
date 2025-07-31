@@ -15,26 +15,42 @@ class Solution {
     public int pairSum(ListNode head) {
         List<Integer> values = new ArrayList();
         
-        ListNode curr = head;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(curr != null) {
-            values.add(curr.val);
-
-            curr = curr.next;
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int left = 0;
-        int right = values.size() - 1;
-
+        
+        ListNode reserveHalf = reserveList(slow);
+        ListNode half = head;
         int max = 0;
 
-        while(left < right) {
-            max = Math.max(values.get(left) + values.get(right), max);
+        while(reserveHalf != null) {
+            max = Math.max(max, reserveHalf.val + half.val);
 
-            left++;
-            right--;
+            reserveHalf = reserveHalf.next;
+            half = half.next;
         }
 
+
         return max;
+    }
+
+    public ListNode reserveList(ListNode head) {
+        ListNode next = null;
+        ListNode curr = head;
+        ListNode prev = null;
+
+        while(curr != null) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
     }
 }
