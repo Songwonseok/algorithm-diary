@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/LeetCode/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 <!---LeetCode Topics End-->
