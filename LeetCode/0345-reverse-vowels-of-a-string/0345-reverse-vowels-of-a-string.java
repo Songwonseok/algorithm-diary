@@ -4,27 +4,30 @@ class Solution {
     private static final Set<Character> VOWELS = Set.of('A','E','I','O','U');
 
     public String reverseVowels(String s) {
-        Stack<Character> vowelStack = new Stack();
         char[] charArray = s.toCharArray();
 
-        for(char c : charArray) {
-            if(isVowel(c)) {
-                vowelStack.push(c);
-            }
-        }
+        int left = 0;
+        int right = s.length() - 1;
 
-        StringBuilder sb = new StringBuilder();
 
-        for(char c : charArray) {
-            if(isVowel(c)) {
-                sb.append(vowelStack.pop());
-                continue;
+        while(left < right) {
+            while(left < right && !isVowel(charArray[left])) {
+                left++;
             }
 
-            sb.append(c);
+            while(left < right && !isVowel(charArray[right])) {
+                right--;
+            }
+
+            char temp = charArray[left];
+            charArray[left] = charArray[right];
+            charArray[right] = temp;
+            
+            left++;
+            right--;
         }
 
-        return sb.toString();
+        return new String(charArray);
     }
 
     public boolean isVowel(char c) {
