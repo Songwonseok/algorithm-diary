@@ -108,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
