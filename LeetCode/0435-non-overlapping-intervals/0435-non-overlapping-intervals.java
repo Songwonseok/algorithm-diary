@@ -3,10 +3,6 @@ import java.util.*;
 class Solution {
     public int eraseOverlapIntervals(int[][] intervals) {
         Arrays.sort(intervals, (o1, o2) -> {
-            if(o1[1] == o2[1]) {
-                return Integer.compare(o2[0], o1[0]);
-            }
-
             return Integer.compare(o1[1], o2[1]);
         });
 
