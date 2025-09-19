@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
+| [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1528-kids-with-the-greatest-number-of-candies) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
