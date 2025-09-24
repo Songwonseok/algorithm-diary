@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
