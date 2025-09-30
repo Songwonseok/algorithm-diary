@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/LeetCode/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0345-reverse-vowels-of-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1392-find-the-difference-of-two-arrays) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 ## Trie
 |  |
