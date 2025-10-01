@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
