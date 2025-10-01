@@ -18,18 +18,13 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
 
-        while(true) {
+        while(curr != null) {
             ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
-
-            if(next == null) {
-                break;    
-            }
-
             curr = next;
         }
 
-        return curr;
+        return prev;
     }
 }
