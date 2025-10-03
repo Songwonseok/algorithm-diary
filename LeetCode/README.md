@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0605-can-place-flowers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0345-reverse-vowels-of-a-string) |
