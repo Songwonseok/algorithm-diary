@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
 | ------- |
