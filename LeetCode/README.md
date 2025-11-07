@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
 | ------- |
