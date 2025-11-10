@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
 |  |
 | ------- |
