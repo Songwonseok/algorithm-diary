@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1236-n-th-tribonacci-number) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
