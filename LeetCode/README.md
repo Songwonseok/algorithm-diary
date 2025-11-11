@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
+| [2870-longest-alternating-subarray](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2870-longest-alternating-subarray) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
+| [2870-longest-alternating-subarray](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2870-longest-alternating-subarray) |
 ## Linked List
 |  |
 | ------- |
