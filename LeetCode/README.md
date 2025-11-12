@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
+| [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1236-n-th-tribonacci-number) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
