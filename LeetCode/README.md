@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0007-reverse-integer) |
 | [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
