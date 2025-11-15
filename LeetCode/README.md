@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1764-maximum-repeating-substring) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/LeetCode/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
@@ -150,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1236-n-th-tribonacci-number) |
