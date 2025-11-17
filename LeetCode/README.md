@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
+| [0238-product-of-array-except-self](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0485-max-consecutive-ones) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1833-find-the-highest-altitude) |
