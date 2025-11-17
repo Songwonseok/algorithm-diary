@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1764-maximum-repeating-substring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
