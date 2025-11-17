@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2058-concatenation-of-array) |
