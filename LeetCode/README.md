@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1236-n-th-tribonacci-number) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2955-account-balance-after-rounded-purchase) |
 ## Recursion
 |  |
 | ------- |
