@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Songwonseok/CodingTest/tree/main/LeetCode/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1552-build-an-array-with-stack-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0724-find-pivot-index) |
