@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2048-build-array-from-permutation) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
