@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0017-letter-combinations-of-a-phone-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0151-reverse-words-in-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
