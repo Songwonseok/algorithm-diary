@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
@@ -267,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
