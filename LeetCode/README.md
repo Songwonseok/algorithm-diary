@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0343-integer-break) |
 | [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0678-valid-parenthesis-string) |
