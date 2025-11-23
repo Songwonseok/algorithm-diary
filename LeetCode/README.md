@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1764-maximum-repeating-substring) |
 | [1812-reformat-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1812-reformat-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1894-merge-strings-alternately) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1933-number-of-different-integers-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1933-number-of-different-integers-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2274-keep-multiplying-found-values-by-two) |
