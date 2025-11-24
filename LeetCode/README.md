@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
@@ -244,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1116-maximum-level-sum-of-a-binary-tree) |
 ## Queue
