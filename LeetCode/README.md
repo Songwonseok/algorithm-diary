@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3905-partition-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3905-partition-string) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2553-total-cost-to-hire-k-workers) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3905-partition-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3905-partition-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2274-keep-multiplying-found-values-by-two) |
+| [3905-partition-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3905-partition-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0014-longest-common-prefix) |
+| [3905-partition-string](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3905-partition-string) |
 ## Graph
 |  |
 | ------- |
