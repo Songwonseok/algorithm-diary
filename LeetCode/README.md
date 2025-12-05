@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1236-n-th-tribonacci-number) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2541-sum-of-number-and-its-reverse) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2955-account-balance-after-rounded-purchase) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
