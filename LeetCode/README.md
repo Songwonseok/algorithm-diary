@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2870-longest-alternating-subarray) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3627-find-minimum-time-to-reach-last-room-i) |
 | [3952-trionic-array-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3952-trionic-array-i) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3998-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0645-set-mismatch) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3998-minimum-operations-to-equalize-array) |
 ## String Matching
 |  |
 | ------- |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3995-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3998-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
