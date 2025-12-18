@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0783-search-in-a-binary-search-tree) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1116-maximum-level-sum-of-a-binary-tree) |
 ## Queue
