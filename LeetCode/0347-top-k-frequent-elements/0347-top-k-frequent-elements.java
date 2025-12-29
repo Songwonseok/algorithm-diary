@@ -1,34 +1,47 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        Arrays.sort(nums);
+        Map<Integer, Integer> map = new HashMap();
 
-        PriorityQueue<int[]> pq = new PriorityQueue((o1, o2) -> Integer.compare(((int[])o2)[1], ((int[])o1)[1]));
-
-        int prev = Integer.MAX_VALUE;
-        int count = 0;
+        int max = 0;
 
         for(int num : nums) {
-            if(prev == Integer.MAX_VALUE || prev == num) {
-                prev = num;
-                count++;
+            int count = map.getOrDefault(num, 0) + 1;
+
+            map.put(num, count);
+
+            max = Math.max(max, count);
+        }
+
+        // Heap or bucket List
+        List<Integer>[] list = new ArrayList[max + 1];
+
+        for(Integer key : map.keySet()) {
+            int count = map.get(key);
+
+            if(list[count] == null) {
+                list[count] = new ArrayList();
+            }
+
+            list[count].add(key);
+        }
+
+        List<Integer> answer = new ArrayList();
+
+        for(int i = list.length - 1; i >= 0; i--) {
+            
+            if(list[i] == null) {
                 continue;
             }
 
-            pq.add(new int[] {prev, count});
-            count = 1;
-            prev = num;
+            for(int num : list[i]) {
+                answer.add(num);
+
+                if(answer.size() == k) {
+                    return answer.stream().mapToInt(v -> v).toArray();
+                }
+            }
         }
 
-        if(count > 0) {
-            pq.add(new int[] {prev, count});
-        }
-
-        int[] answer = new int[k];
-
-        for(int i = 0; i < k; i++) {
-            answer[i] = pq.poll()[0];
-        }
-
-        return answer;
+        return answer.stream().mapToInt(v -> v).toArray();
     }
 }
