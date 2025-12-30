@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0238-product-of-array-except-self) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1116-maximum-level-sum-of-a-binary-tree) |
 ## Queue
 |  |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 <!---LeetCode Topics End-->
