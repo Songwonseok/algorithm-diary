@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0328-odd-even-linked-list) |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 <!---LeetCode Topics End-->
