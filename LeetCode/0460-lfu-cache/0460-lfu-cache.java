@@ -1,110 +1,124 @@
 class LFUCache {
-    private Map<Integer, Node> cache;
-    private int capacity;
-    private Node head, tail;
-
+    private final Map<Integer, Node> cache;
+    private final Map<Integer, DoublyLinkedList> freqMap;
+    private int capacity, minFreq, count;
+    
     public LFUCache(int capacity) {
-        cache = new HashMap();
-
         this.capacity = capacity;
-
-        head = new Node();
-        tail = new Node();
-
-        head.next = tail;
-        tail.prev = head;
+        cache = new HashMap();
+        freqMap = new HashMap();     
+        minFreq = 1;   
+        count = 0;
     }
     
     public int get(int key) {
         if(!cache.containsKey(key)) {
-            return -1;   
+            return -1;
         }
 
         Node node = cache.get(key);
-        node.count++;
-
-        removeLruNode(node);
-        addToHead(node);
+        countUp(node);
 
         return node.value;
     }
     
     public void put(int key, int value) {
-        Node node;
-
-        if(!cache.containsKey(key)) {
-            node = new Node(key, value);
-            cache.put(key, node);
-        }else {
-            node = cache.get(key);
-            removeLruNode(node);
+        if(cache.containsKey(key)) {
+            Node node = cache.get(key);
             node.value = value;
+            countUp(node);
+            return;
         }
 
-        if(cache.size() > capacity) {
-            Node removeNode = findRemoveNode();
-            
-            cache.remove(removeNode.key);
-            removeLruNode(removeNode);
+        if(capacity == count) {
+            DoublyLinkedList list = freqMap.get(minFreq);
+            Node remove = list.findLruNode();
+            cache.remove(remove.key);
+            count--;
         }
-
-        node.count++;
-        addToHead(node);
-    }
-
-    private Node findRemoveNode() {
-        Node node = tail;
-
-        int min = Integer.MAX_VALUE;
-        Node removeNode = null;
-
-        while(node.prev != head) {
-            node = node.prev;
-
-            if(node.count < min) {
-                removeNode = node;
-                min = node.count;
-            }
-        }
-
-        return removeNode;
-    }
-
-
-    private void removeLruNode(Node node) {
-        Node prev = node.prev;
-        Node next = node.next;
-
-        prev.next = next;
-        next.prev = prev;
-
-        node.prev = null;
-        node.next = null;
-    }
-
-    private void addToHead(Node node) {
-        Node next = head.next;
-
-        node.next = next;
-        next.prev = node;
         
-        node.prev = head;
-        head.next = node;
+        minFreq = 1;
+
+        Node node = new Node(key, value);
+        if(!freqMap.containsKey(node.freq)) {
+            freqMap.put(node.freq, new DoublyLinkedList());
+        }
+
+        freqMap.get(node.freq).addNode(node);
+        cache.put(key, node);
+        count++;
     }
 
-    static class Node {
-        int key, value, count;
+    private void countUp(Node node) {
+        DoublyLinkedList list = freqMap.get(node.freq);
 
+        list.removeNode(node);
+        node.freq++;
+
+        if(!freqMap.containsKey(node.freq)) {
+            freqMap.put(node.freq, new DoublyLinkedList());
+        }
+
+        freqMap.get(node.freq).addNode(node);
+
+        if(list.isEmpty() && minFreq == node.freq - 1) {
+            minFreq = node.freq;
+        }
+    }
+
+    class Node {
+        int key, value, freq;
         Node prev, next;
-
-        Node() {}
 
         Node(int key, int value) {
             this.key = key;
             this.value = value;
-            count = 0;
+            this.freq = 1;
+        }
+    }
+
+    class DoublyLinkedList {
+        Node head, tail;
+
+        DoublyLinkedList() {
+            head = new Node(0, 0);
+            tail = new Node(0, 0);
+
+            head.next = tail;
+            tail.prev = head;
         }
 
+        boolean isEmpty() {
+            return head.next == tail;
+        }
+
+        Node findLruNode() {
+            Node node = tail.prev;
+
+            removeNode(node);
+            return node;
+        }
+
+        void removeNode(Node node) {
+            Node prevNode = node.prev;
+            Node nextNode = node.next;
+
+            prevNode.next = nextNode;
+            nextNode.prev = prevNode;
+
+            node.prev = null;
+            node.next = null;
+        }
+
+        void addNode(Node node) {
+            Node nextNode = head.next;
+
+            node.next = nextNode;
+            nextNode.prev = node;
+
+            head.next = node;
+            node.prev = head;
+        }
     }
 }
 
