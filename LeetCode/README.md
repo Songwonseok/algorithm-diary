@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -352,10 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 ## Union Find
 |  |
 | ------- |
