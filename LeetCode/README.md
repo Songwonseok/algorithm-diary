@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
+| [0066-plus-one](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0343-integer-break](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0343-integer-break) |
 | [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
