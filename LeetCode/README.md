@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0560-subarray-sum-equals-k) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0343-integer-break](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1146-greatest-common-divisor-of-strings) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
 | [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 ## Doubly-Linked List
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
