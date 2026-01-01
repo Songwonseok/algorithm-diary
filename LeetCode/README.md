@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
+| [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
