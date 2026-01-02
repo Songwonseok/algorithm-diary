@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0747-min-cost-climbing-stairs) |
+| [0859-design-circular-deque](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0859-design-circular-deque) |
 | [1046-max-consecutive-ones-iii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/1392-find-the-difference-of-two-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
+| [0859-design-circular-deque](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0859-design-circular-deque) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0649-dota2-senate) |
+| [0859-design-circular-deque](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0460-lfu-cache) |
+| [0859-design-circular-deque](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
