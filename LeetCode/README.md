@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0380-insert-delete-getrandom-o1) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0645-set-mismatch) |
