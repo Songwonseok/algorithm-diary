@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Songwonseok/algorithm-diary/tree/main/LeetCode/0066-plus-one) |
